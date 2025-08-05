@@ -196,7 +196,7 @@ function App() {
   return (
     <div className="app-container">
       <header className="app-header">
-        <div className="welcome-message">Welcome, Thirukumaran Haridass</div>
+        <div className="welcome-message">Welcome, Thirukkumaran Haridass</div>
       </header>
       {/* <Toolbar>
         <ToolbarItem
